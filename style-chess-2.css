@@ -8,7 +8,11 @@
     align-items:center; }
 
 
-    .grey{ background-color: grey;}
+    .grey{ background-color: grey; color:black;}
 
 
-    .black{background-color:black; color:white;}
+    .black{background-color:dark grey; color:black; }
+
+    .grey-1{background-color:grey;color:white;} 
+
+    .black-1{background-color:dark grey; color:white;} 
